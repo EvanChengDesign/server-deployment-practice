@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1714424747069" clover="3.2.0">
-  <project timestamp="1714424747069" name="All files">
-    <metrics statements="24" coveredstatements="22" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="6" elements="32" coveredelements="28" complexity="0" loc="24" ncloc="24" packages="3" files="4" classes="4"/>
-    <package name="server">
-      <metrics statements="17" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="3"/>
-      <file name="server.js" path="/Users/evancheng/projects/courses/code-401/server-deployment-practice/server/server.js">
-        <metrics statements="17" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="3"/>
+<coverage generated="1714429477259" clover="3.2.0">
+  <project timestamp="1714429477259" name="All files">
+    <metrics statements="26" coveredstatements="24" conditionals="2" coveredconditionals="1" methods="8" coveredmethods="6" elements="36" coveredelements="31" complexity="0" loc="26" ncloc="26" packages="3" files="4" classes="4"/>
+    <package name="server-deployment-practice">
+      <metrics statements="19" coveredstatements="17" conditionals="2" coveredconditionals="1" methods="5" coveredmethods="3"/>
+      <file name="server.js" path="/Users/evancheng/projects/courses/code-401/server-deployment-practice/server.js">
+        <metrics statements="19" coveredstatements="17" conditionals="2" coveredconditionals="1" methods="5" coveredmethods="3"/>
         <line num="3" count="1" type="stmt"/>
         <line num="4" count="1" type="stmt"/>
-        <line num="6" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
         <line num="7" count="1" type="stmt"/>
         <line num="8" count="1" type="stmt"/>
-        <line num="13" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="1" type="cond" truecount="1" falsecount="1"/>
         <line num="14" count="1" type="stmt"/>
         <line num="15" count="1" type="stmt"/>
-        <line num="17" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
         <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
         <line num="23" count="1" type="stmt"/>
         <line num="27" count="2" type="stmt"/>
         <line num="32" count="2" type="stmt"/>
@@ -25,22 +27,22 @@
         <line num="46" count="1" type="stmt"/>
       </file>
     </package>
-    <package name="server.handlers">
+    <package name="server-deployment-practice.handlers">
       <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
-      <file name="404.js" path="/Users/evancheng/projects/courses/code-401/server-deployment-practice/server/handlers/404.js">
+      <file name="404.js" path="/Users/evancheng/projects/courses/code-401/server-deployment-practice/handlers/404.js">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="4" count="1" type="stmt"/>
         <line num="11" count="1" type="stmt"/>
       </file>
-      <file name="500.js" path="/Users/evancheng/projects/courses/code-401/server-deployment-practice/server/handlers/500.js">
+      <file name="500.js" path="/Users/evancheng/projects/courses/code-401/server-deployment-practice/handlers/500.js">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="4" count="1" type="stmt"/>
         <line num="13" count="1" type="stmt"/>
       </file>
     </package>
-    <package name="server.middleware">
+    <package name="server-deployment-practice.middleware">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <file name="stamper.js" path="/Users/evancheng/projects/courses/code-401/server-deployment-practice/server/middleware/stamper.js">
+      <file name="stamper.js" path="/Users/evancheng/projects/courses/code-401/server-deployment-practice/middleware/stamper.js">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="3" count="1" type="stmt"/>
         <line num="4" count="2" type="stmt"/>
