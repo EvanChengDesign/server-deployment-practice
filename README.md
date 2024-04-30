@@ -19,7 +19,6 @@ Time to get hands on with Node.js development! Today, you’ll create and deploy
 - See passing tests via CI using GitHub actions (Continuous Integration)
 - Deploy to the cloud using CD (Continuous Deployment)
 
-
 # URLS
 [Render | Live Site](https://server-deployment-practice-7akk.onrender.com/)  
 
@@ -32,7 +31,7 @@ Time to get hands on with Node.js development! Today, you’ll create and deploy
 # Workflow Diagram:
 ![Workflow Diagram](./images/Screenshot%202024-04-29%20at%2019.30.21.png)
 
-# Notes from Demo
+# Notes from Demo:
 
 ![Node.JS](./images/Screenshot%202024-04-29%20at%2018.53.40.png)
 ![Tests](./images/Screenshot%202024-04-29%20at%2018.53.45.png)
